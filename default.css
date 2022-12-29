@@ -83,6 +83,7 @@ h6 {font-size: 16px;}
     padding:0;
     height: auto;
     overflow:auto;
+    text-size-adjust: auto;
 }
 
 .main-wrapper{
