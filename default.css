@@ -81,9 +81,6 @@ h6 {font-size: 16px;}
     min-height: 10em;
     line-height: 0px;
     padding:0;
-    height: auto;
-    overflow:auto;
-    text-size-adjust: auto;
 }
 
 .main-wrapper{
@@ -307,8 +304,4 @@ h6 {font-size: 16px;}
     .right-column{
         justify-content: center;
     }
-}
-
-@media screen and (max-width: 600px){
-    h1{font-size: 36px;}
 }
