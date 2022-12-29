@@ -310,5 +310,5 @@ h6 {font-size: 16px;}
 }
 
 @media screen and (max-width: 600px){
-    h2 {font-size: 24px;}
+    .greeting-wrapper{font-size: 24px;}
 }
