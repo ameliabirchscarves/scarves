@@ -1,0 +1,14 @@
+.main-wrapper{
+    height: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+#main_scarf{
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+    
+}
